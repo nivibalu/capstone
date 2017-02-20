@@ -184,7 +184,7 @@ ggplot(head(unigram.df,15), aes(x=reorder(word,-freq), y=freq)) +
   xlab("Term")
 ```
 
-![plot of chunk unnamed-chunk-11](milestone_improved_files/figure-html/unnamed-chunk-11.png) 
+![plot of chunk unnamed-chunk-11](unnamed-chunk-11.png) 
 
 ## Bigram Analysis
 
