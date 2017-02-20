@@ -212,7 +212,7 @@ ggplot(head(bigram.df,15), aes(x=reorder(word,-freq), y=freq)) +
   xlab("Term")
 ```
 
-![plot of chunk unnamed-chunk-13](milestone_improved_files/figure-html/unnamed-chunk-13.png) 
+![plot of chunk unnamed-chunk-13](unnamed-chunk-13.png) 
 
 ## Trigram Analysis
 
@@ -239,7 +239,7 @@ ggplot(head(trigram.df,15), aes(x=reorder(word,-freq), y=freq)) +
   xlab("Term")
 ```
 
-![plot of chunk unnamed-chunk-15](milestone_improved_files/figure-html/unnamed-chunk-15.png) 
+![plot of chunk unnamed-chunk-15](unnamed-chunk-15.png) 
 
 
 
